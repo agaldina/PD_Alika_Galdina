@@ -5,3 +5,8 @@ def ievads():
       cena=float(input(Ievadi cenu:))
       if cena<0 or cena <0
       print("Kļūda")
+    else: #...
+
+      #...
+      def daudzums(masa)]
+      masa_s_kg=
