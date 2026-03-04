@@ -1,1 +1,6 @@
-
+def ievads():
+  while True:
+    try:
+      masa=float(input(Ievadi cmasu:))
+      cena=float(input(Ievadi cenu:))
+      if cena<0
