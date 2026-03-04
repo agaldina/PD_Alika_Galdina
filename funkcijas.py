@@ -3,4 +3,5 @@ def ievads():
     try:
       masa=float(input(Ievadi cmasu:))
       cena=float(input(Ievadi cenu:))
-      if cena<0
+      if cena<0 or cena <0
+      print("Kļūda")
